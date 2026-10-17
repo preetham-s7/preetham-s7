@@ -10,19 +10,21 @@ I build practical tools at the intersection of AI agents, systems thinking, and 
 - Hardware performance modeling, memory systems, and accelerator trade-offs
 - Clear interfaces for understanding complex systems and workflows
 
-## Featured projects
-
-### [RepairMate](https://github.com/preetham-s7/Repair-Mate)
-
-Safety-first AI repair research for washing machines. RepairMate uses TinyFish to navigate manufacturer websites and return model-specific troubleshooting guidance, official sources, parts availability, and authorized-service options.
-
-[Open the live demo](https://repair-mate.onrender.com/)
+## Selected work
 
 ### [TileLens](https://github.com/preetham-s7/TileLens)
 
 A silicon workbench for chip blueprints, roofline analysis, tile-memory flow, and AI accelerator co-design. It combines a responsive web interface with Python and CLI tools for exploring hardware and workload trade-offs.
 
 [Open the live app](https://tile-lens.vercel.app/)
+
+### [Labs-Releases](https://github.com/preetham-s7/Labs-Releases)
+
+Public release assets for CycloSim Labs desktop software, used by the in-app updater to distribute installer files.
+
+## Explore more
+
+Browse all of my public work on [GitHub](https://github.com/preetham-s7?tab=repositories).
 
 ## Tools and technologies
 
