@@ -1,43 +1,35 @@
-# Hi, I'm PREETHAM S 👋
+# PREETHAM S
 
-> Define what’s possible. Prove what’s achievable.
+Design Verification Engineer focused on digital systems, hardware verification, and performance-oriented engineering tools.
 
-[🌐 Visit my portfolio](https://preetham-s7.github.io/preetham-portfolio/)
+[Portfolio](https://preetham-s7.github.io/preetham-portfolio/) · [GitHub](https://github.com/preetham-s7)
 
-I build practical tools at the intersection of AI agents, systems thinking, and hardware–software co-design. My work focuses on turning complex technical problems into useful, inspectable products.
+## Profile
 
-## What I’m exploring
+I work across RTL verification, SystemVerilog, UVM, simulation, and hardware–software co-design. I value disciplined engineering, clear technical communication, and solutions that can be tested, measured, and improved.
 
-- Evidence-backed AI agents that research live sources instead of guessing
-- Hardware performance modeling, memory systems, and accelerator trade-offs
-- Clear interfaces for understanding complex systems and workflows
-
-## Selected work
+## Selected Projects
 
 ### [TileLens](https://github.com/preetham-s7/TileLens)
 
-A silicon workbench for chip blueprints, roofline analysis, tile-memory flow, and AI accelerator co-design. It combines a responsive web interface with Python and CLI tools for exploring hardware and workload trade-offs.
+A silicon workbench for chip blueprints, roofline analysis, tile-memory flow, and AI accelerator co-design. TileLens combines hardware profiles, workload modeling, memory analysis, and interactive visualization to study performance trade-offs across modern processors and accelerators.
 
-[Open the live app](https://tile-lens.vercel.app/)
+[Live application](https://tile-lens.vercel.app/)
 
-### [Labs-Releases](https://github.com/preetham-s7/Labs-Releases)
+### [FIFO UVM Verification](https://github.com/preetham-s7/fifo-uvm-verification)
 
-Public release assets for CycloSim Labs desktop software, used by the in-app updater to distribute installer files.
+Parameterized synchronous FIFO implemented in SystemVerilog and verified through progressive directed, layered, and UVM environments. The project covers configurable FIFO depth and data width, pointer wrapping, simultaneous read/write behavior, overflow and underflow handling, scoreboarding, constrained-random stimulus, and regression testing.
 
-## Explore more
+## Technical Focus
 
-Browse all of my public work on [GitHub](https://github.com/preetham-s7?tab=repositories).
+- SystemVerilog and RTL design
+- UVM testbench architecture
+- Constrained-random verification and functional coverage
+- Assertions, protocol checking, and simulation debug
+- Hardware performance modeling and memory systems
+- Python, scripting, and engineering automation
 
-## Tools and technologies
+## Contact
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AI agents](https://img.shields.io/badge/AI%20agents-111827?style=flat-square)
-![Hardware co-design](https://img.shields.io/badge/Hardware%20co--design-0F766E?style=flat-square)
-
-## Connect
-
-Explore my work on [GitHub](https://github.com/preetham-s7) or visit my [portfolio](https://preetham-s7.github.io/preetham-portfolio/).
+For professional opportunities, engineering collaborations, or technical discussions, connect through my [portfolio](https://preetham-s7.github.io/preetham-portfolio/) or [GitHub](https://github.com/preetham-s7).
 
