@@ -2,6 +2,8 @@
 
 > Define what’s possible. Prove what’s achievable.
 
+[🌐 Visit my portfolio](https://preetham-s7.github.io/preetham-portfolio/)
+
 I build practical tools at the intersection of AI agents, systems thinking, and hardware–software co-design. My work focuses on turning complex technical problems into useful, inspectable products.
 
 ## What I’m exploring
@@ -37,5 +39,5 @@ Browse all of my public work on [GitHub](https://github.com/preetham-s7?tab=repo
 
 ## Connect
 
-The best place to find my latest work is [GitHub](https://github.com/preetham-s7).
+Explore my work on [GitHub](https://github.com/preetham-s7) or visit my [portfolio](https://preetham-s7.github.io/preetham-portfolio/).
 
